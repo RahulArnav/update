@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Selenium",
+        "icon": "./assets/images/selenium.png"
+    },
+    
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "REST API",
+        "icon": "./assets/images/rest-api.png"
+    },
+    
+    {
+        "name": "Cypress",
+        "icon": "./assets/images/cypress.png"
+    },
+    {
+        "name": "VS-Code",
+        "icon": "./assets/images/vs-code.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+      
+    {
+        "name": "HTML",
+        "icon": "./assets/images/html.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "./assets/images/css.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "./assets/images/docker.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+    },
+  
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }    
+]
