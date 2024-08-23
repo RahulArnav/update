@@ -17,7 +17,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #f7f7f7;
+  background: lemonchiffon;
   font-family: "Poppins", sans-serif;
   /* pointer-events: all; */
 }
@@ -481,7 +481,7 @@ header .navbar ul li a:hover {
 }
 .skills .container .row {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   flex-wrap: wrap;
   gap: 1.8rem;
 }
