@@ -12,7 +12,10 @@
         "name": "REST API",
         "icon": "./assets/images/rest-api.png"
     },
-    
+    {
+        "name": "Appium",
+        "icon": "./assets/images/appium.png"
+    },
     {
         "name": "Cypress",
         "icon": "./assets/images/cypress.png"
